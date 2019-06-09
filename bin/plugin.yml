@@ -1,0 +1,5 @@
+name: CustomWelcomeMessage
+version: 1.0
+author: DamonOnYT
+main: com.ddidevelopment.customwelcomemessage.Main
+description: Custom Welcome and Leave messages for your server

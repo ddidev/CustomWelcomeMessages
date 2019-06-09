@@ -1,0 +1,3 @@
+firstJoinMessage: '&a<player> &chas joined for the first time'
+joinMessage: '&a<player> &7has joined the server'
+leaveMessage: '&c<player> &7has left the server'
